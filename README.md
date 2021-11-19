@@ -24,5 +24,5 @@ Operações:
 - Delete: /api/activities/:id
 ```
 
-#Autora
+# Autora
 [Ana Cláudia Tavares](https://www.linkedin.com/in/ana-cl%C3%A1udia-tavares-a842a6102)
