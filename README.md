@@ -12,3 +12,17 @@ Operações:
 - Put: /api/vehicles:id
 - Delete: /api/vehicles:id
 ```
+
+# Atividades 
+É possível adicionar clientes no checkin, fazer checkout de clientes, remover todas as atividades do cliente e exibir uma lista de todos os clientes que fizeram checkin.
+
+Operações:
+```
+- Get: /api/activities
+- Post: /api/activities/checkin
+- Put: /api/activities/checkout
+- Delete: /api/activities/:id
+```
+
+#Autora
+[Ana Cláudia Tavares](https://www.linkedin.com/in/ana-cl%C3%A1udia-tavares-a842a6102)
